@@ -1,5 +1,5 @@
 import Foundation
-import MPVKit
+import Libmpv
 
 // Comments are from below and were summarized by ChatGPT.
 // - Some cases have been renamed for clarity

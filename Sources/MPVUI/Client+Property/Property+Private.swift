@@ -7,7 +7,7 @@
 
 import Combine
 import Foundation
-import MPVKit
+import Libmpv
 
 // TODO: async gets
 // TODO: status checks

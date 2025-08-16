@@ -5,7 +5,7 @@
 //  Created by Ethan Pippin on 5/14/24.
 //
 
-import MPVKit
+import Libmpv
 import UIKit
 
 public struct MPVMetalPlayer: _PlatformRepresentable {

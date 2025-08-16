@@ -7,7 +7,7 @@
 
 import Foundation
 import GLKit
-import MPVKit
+import Libmpv
 import SwiftUI
 
 public struct MPVPlayer: _PlatformRepresentable {

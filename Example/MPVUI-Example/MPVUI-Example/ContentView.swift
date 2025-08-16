@@ -7,7 +7,7 @@
 
 import Combine
 import MPVUI
-import MPVKit
+import Libmpv
 import SwiftUI
 
 class ViewModel: ObservableObject {

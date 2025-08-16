@@ -1,7 +1,7 @@
 import Combine
 import Foundation
 import GLKit
-import MPVKit
+import Libmpv
 
 // TODO: init with configuration
 //       - log level

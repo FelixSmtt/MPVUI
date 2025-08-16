@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import MPVKit
+import Libmpv
 
 extension MPVClient {
     
