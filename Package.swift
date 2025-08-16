@@ -15,7 +15,7 @@ let package = Package(
             targets: ["MPVUI"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/cxfksword/MPVKit", branch: "main"),
+        .package(url: "https://github.com/mpvkit/MPVKit", branch: "main"),
     ],
     targets: [
         .target(
